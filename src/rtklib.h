@@ -55,6 +55,10 @@ extern "C" {
 #define EXPORT
 #endif
 
+// oof 
+
+#define ENAGAL true
+
 /* constants -----------------------------------------------------------------*/
 
 #define VER_RTKLIB  "demo5"             /* library version */
